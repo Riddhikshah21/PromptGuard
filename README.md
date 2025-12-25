@@ -1,5 +1,5 @@
 
-# PromptGuard microservice
+# PromptGuard
 
 A scalable microservice that evaluates text similarity between prompts and conditionally forwards one to an LLM, with comprehensive input/output sanitization and testing.
 
